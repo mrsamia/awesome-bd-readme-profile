@@ -8,7 +8,7 @@
 Inspired By -
 [abhisheknaiidu](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
-If you want to contribute read it - [CONTRIBUTE](https://github.com/moshfiqrony/awesome-bd-readme-profile/blob/master/CONTRIBUTE.md)
+If you want to contribute read the rules - [CONTRIBUTE](https://github.com/moshfiqrony/awesome-bd-readme-profile/blob/master/CONTRIBUTE.md)
 
 </div>
 
